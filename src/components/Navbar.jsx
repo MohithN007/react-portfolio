@@ -1,5 +1,5 @@
 
-import logo from "../assets/Logo.webp"
+import logo from "../assets/logo.webp"
 import { FaGithub, FaInstagram, FaLinkedin, FaSquareXTwitter } from "react-icons/fa6"
 const Navbar = () => {
   return (

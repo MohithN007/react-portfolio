@@ -11,7 +11,7 @@ const Projects = () => {
              transition={{duration:1.0}}
             
             
-            className="my-20 text-center text-5xl">Projects</motion.h1>
+            className="my-20 text-center text-6xl">Projects</motion.h1>
             <div>
                 {PROJECTS.map((project, index) => (
                     <div key={index} className="mb-8 flex flex-wrap 
